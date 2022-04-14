@@ -85,8 +85,8 @@ def banner():
   _______  ______  ______  -  _____
      |     |     | |     | | |____  +SCRIPT NAME   = HIKMAARNH
      |     |_____| |_____| |____  | +SUPPORT DEVICE= 32/64bit
-           _______________________| +PREMIUM       = AKTIF
-+WELCOME TO THE SCRIPT = HIKMA CHAN+
+__________________________________| +PREMIUM       = AKTIF
+                 +WELCOME TO THE SCRIPT = HIKMA CHAN+
    ______________+STORED DATA SCRIPTS ON YOUR DEVICE+ ________________
 +++++++++++++++++++++++++PUBLISHER DATA+++++++++++++++++++++++++
        ____           ____       [®]PROGRAMER = HIKMAH
@@ -94,9 +94,9 @@ def banner():
   ________| HIKMAARNH |_________ [®]DEVELOPER = HIKMAARNH
 ───────────────────────────────────────────────────────
  [\x1b[1;96m+%s] Author   : HIKMA CHAN
- [\x1b[1;96m+%s] WA       : NO
- [\x1b[1;96m+%s] Facebook : NO
-───────────────────────────────────────────────────────\n'''%(H,K,K,K))
+ [\x1b[1;96m+%s] GITHUB   : https://github.com/shinZy378/Hikmahchan
+ [\x1b[1;96m+%s] Facebook : https://web.facebook.com/100057370791997
+───────────────────────────────────────────────────────\n'''%(B,K,U,H))
 
 class login:
 
