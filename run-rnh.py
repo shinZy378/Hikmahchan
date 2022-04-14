@@ -96,7 +96,7 @@ __________________________________| +PREMIUM       = AKTIF
  [\x1b[1;96m+%s] Author   : HIKMA CHAN
  [\x1b[1;96m+%s] GITHUB   : https://github.com/shinZy378/Hikmahchan
  [\x1b[1;96m+%s] Facebook : https://web.facebook.com/100057370791997
-───────────────────────────────────────────────────────\n'''%(B,K,U,H))
+───────────────────────────────────────────────────────\n'''%(O,K,U,H))
 
 class login:
 
